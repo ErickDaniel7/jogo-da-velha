@@ -1,9 +1,10 @@
 <div align="center">
 
 <a name="inicio"></a>
-
  <a href="#final" />
-  <img src="https://img.shields.io/static/v1?message=Ir Para Final&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Ir Para Final&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" />
+ </a>
+ <br>
 
 <img src="images/Rainbow.gif" width="100%">
 
@@ -1913,8 +1914,11 @@
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Acho que vamos chamar isso de empate<br/>[Quer jogar de novo?](#root)<br/><br/><br/>
 
 <img src="images/Rainbow.gif" width="100%">
+<br>
+<br>
 
 <a name="final"></a>
-[Volte para o inicio](#inicio)
-
+<a href="#inicio" />
+  <img src="https://img.shields.io/static/v1?message=Volte Para Inicio&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" />
+ </a>
 </div>

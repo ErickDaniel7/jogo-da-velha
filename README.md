@@ -1,9 +1,11 @@
+<div align="center">
 
 <a name="inicio"></a>
 
 [Va até o final](#final)
 
----
+<img src="images/Rainbow.gif" width="100%">
+
 <a name="root"></a><br/><br/><br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
 <a name="1"></a><br/><br/><br/>
@@ -1909,8 +1911,9 @@
 <a name="951"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Acho que vamos chamar isso de empate<br/>[Quer jogar de novo?](#root)<br/><br/><br/>
 
-
----
+<img src="images/Rainbow.gif" width="100%">
 
 <a name="final"></a>
 [Volte para o inicio](#inicio)
+
+</div>

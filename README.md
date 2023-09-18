@@ -2,7 +2,7 @@
 
 <a name="inicio"></a>
 
- <a href="(#final)" />
+ <a href="#final" />
   <img src="https://img.shields.io/static/v1?message=Ir Para Final&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="25" />
 
 <img src="images/Rainbow.gif" width="100%">

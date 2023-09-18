@@ -155,7 +155,9 @@
 <a name="72"></a><br/><br/><br/>
 [⬜](#383) [⬜](#384) [⬜](#385)<br/>[⬜](#386) ⭕ [⬜](#387)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="73"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/><br>⭕ ganhou!!!<br/>[Quer jogar de novo?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/><br>⭕ ganhou!!!<br/><a href="#root" />
+  <img src="https://img.shields.io/static/v1?message=Quer Jogar Denovo?&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="15" />
+ </a><br/><br/><br/>
 <a name="74"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/><br>⭕ ganhou!!!<br/>[Quer jogar de novo?](#root)<br/><br/><br/>
 <a name="75"></a><br/><br/><br/>

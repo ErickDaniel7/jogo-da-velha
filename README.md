@@ -1,3 +1,5 @@
+<!-- Creditos: https://github.com/kylepls -->
+
 <div align="center">
 
 <a name="inicio"></a>
